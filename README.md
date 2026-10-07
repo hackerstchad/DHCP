@@ -1,5 +1,8 @@
 # Protocole DHCP : Guide Avancé Complet
 
+<img width="648" height="604" alt="dhcp_1-1" src="https://github.com/user-attachments/assets/7f302295-0ad7-4533-a40c-715ddf265b2f" />
+
+
 **Créé par : Hackers_tchad**
 
 ---
